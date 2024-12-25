@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Unbounded', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Unbounded', sans-serif;
+}
+
+.p-menubar {
+  padding: 1rem;
+}
+
+.p-card {
+  border-radius: 1rem;
+  transition: transform 0.2s;
+}
+
+.p-card-title, .p-card-caption, .p-menubar-start, .p-menubar-end, .footer-logo {
+  font-family: 'Unbounded', sans-serif;
+}
+
+.p-card:hover {
+  transform: translateY(-5px);
+}
+
+.bg-yellow\/80 {
+  background-color: #EBED9E;
+}
