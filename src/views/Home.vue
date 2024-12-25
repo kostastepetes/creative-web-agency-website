@@ -5,13 +5,13 @@
       <div class="container mx-auto px-4 grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
         <!-- Left Content -->
         <div class="text-left">
-          <h1 class="text-5xl md:text-7xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600">
-            We Create <span class="relative inline-block">
+          <h1 class="text-5xl md:text-7xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600" style="line-height: 1.25!important;">
+            We Create <span class="relative">
               <span class="bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600">
                 Digital
               </span>
               <span 
-                class="absolute left-0 -bottom-2 w-full h-2 bg-[#EBED9E] rounded-md"
+                class="absolute left-0 -bottom-2 w-full h-2 bg-[#f9ff00] rounded-md"
               ></span>
             </span> Experiences
           </h1>
