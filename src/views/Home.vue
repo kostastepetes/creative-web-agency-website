@@ -93,9 +93,9 @@
         </div>
         <div class="relative">
           <img 
-            src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=800"
+            src="/about-logo.svg"
             alt="Our team"
-            class="rounded-2xl shadow-xl"
+            class="rounded-2xl transform hover:scale-105 transition-transform duration-300"
           />
         </div>
       </div>
@@ -138,7 +138,7 @@ const navigateToSection = (id) => {
   border: none !important;
   width: 140px;
   height: 40px;
-  padding: 8px;
+  padding: 8px 10px;
 }
 
 .custom-get-started:hover {
@@ -152,7 +152,7 @@ const navigateToSection = (id) => {
   border: none !important;
   width: 140px;
   height: 40px;
-  padding: 8px;
+  padding: 8px 15px;
 }
 
 .custom-our-work:hover {
