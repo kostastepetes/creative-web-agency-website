@@ -2,7 +2,7 @@
   <main>
     <!-- Hero Section -->
     <section id="home" class="min-h-screen flex items-center relative overflow-hidden">
-      <div class="container mx-auto px-4 grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+      <div class="container mx-auto px-4 grid grid-cols-1 md:grid-cols-2 gap-12 items-center mt-8 pt-8 md:mt-0 md:pt-4">
         <!-- Left Content -->
         <div class="text-left">
           <h1 class="text-5xl md:text-7xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600" style="line-height: 1.25!important;">
