@@ -4,7 +4,7 @@
       <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
         <div>
           <div class="flex items-center gap-2 mb-4">
-            <h3 class="font-bold text-xl" style="color: #EBED9E;">Kyto</h3>
+            <h3 class="font-bold text-xl" style="color: #EBED9E;">Creative</h3>
           </div>
           <p class="text-gray-400">
             Crafting digital experiences that inspire and innovate.
@@ -55,7 +55,7 @@
         </div>
       </div>
       <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-        <p>&copy; {{ new Date().getFullYear() }} Kyto Creative Agency. All rights reserved.</p>
+        <p>&copy; {{ new Date().getFullYear() }} Creative Agency. All rights reserved.</p>
       </div>
     </div>
   </footer>
