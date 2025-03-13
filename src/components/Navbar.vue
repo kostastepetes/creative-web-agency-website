@@ -2,7 +2,7 @@
   <Menubar :model="items" class="border-none shadow-sm backdrop-blur-sm fixed w-full z-50">
     <template #start>
       <router-link to="/" class="flex items-center gap-2 mr-4">
-        <span class="font-bold text-xl bg-black text-[#EBED9E] p-2 rounded transition-transform transform hover:scale-110">Kyto</span>
+        <span class="font-bold text-xl bg-black text-[#EBED9E] p-2 rounded transition-transform transform hover:scale-110">Creative</span>
       </router-link>
     </template>
     <template #end>
