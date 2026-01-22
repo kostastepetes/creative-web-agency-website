@@ -1,7 +1,7 @@
 <template>
   <Card class="service-card">
     <template #header>
-      <i :class="icon + ' text-4xl text-blue-600'"></i>
+      <i :class="icon + ' text-4xl text-blue-600 p-6'"></i>
     </template>
     <template #title>{{ title }}</template>
     <template #content>
